@@ -1,0 +1,6 @@
+Appetizers Nachos 5.99 1
+Appetizers SpringRolls 4.49 1
+MainCourse Steak 14.99 1
+MainCourse Pasta 10.99 1
+Desserts Brownie 4.99 0
+Desserts Cheesecake 6.99 1
